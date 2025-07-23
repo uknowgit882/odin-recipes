@@ -1,0 +1,28 @@
+body {
+    background-color: #fff8f0;
+}
+
+#home {
+    font-size: 20px;
+}
+
+#title {
+    color:brown;
+    background-color: #F5F5DC;
+    text-align: center;
+    font-size: 40px;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+.description, .ingredients, .steps {
+    color: brown;
+    text-align: center;
+    background-color: #F5F5DC;
+}
+
+
+
